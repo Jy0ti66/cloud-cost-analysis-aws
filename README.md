@@ -41,3 +41,7 @@ The system architecture includes:
 ## Outcome
 This project provided hands-on experience in **cloud cost estimation, budget
 planning, and optimization strategies** using AWS services.
+
+###  Key Takeaway
+Designed a cost-optimized AWS architecture and documented pricing estimates to support informed cloud budgeting decisions.
+
