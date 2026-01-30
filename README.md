@@ -29,7 +29,7 @@ The system architecture includes:
 
 ## 📸 AWS Pricing Calculator Snapshot
 
-![AWS Pricing Calculator Cost Estimate](screenshots/.png)
+![AWS Pricing Calculator Cost Estimate](screenshot/Screenshot2026-01-30 200136.png)
 
 
 ## Cost Optimization Strategies
