@@ -27,6 +27,11 @@ The system architecture includes:
 
 *(Architecture diagram available in the repository)*
 
+## 📸 AWS Pricing Calculator Snapshot
+
+![AWS Pricing Calculator Cost Estimate](screenshots/.png)
+
+
 ## Cost Optimization Strategies
 - Selected appropriate EC2 instance types based on workload.
 - Used cost-effective storage options for S3.
